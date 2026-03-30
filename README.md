@@ -67,8 +67,8 @@ npm run dev
 欢迎贡献代码、报告问题或提出新功能建议！
 
 - 📖 查看 [CONTRIBUTING.md](./CONTRIBUTING.md) 了解贡献指南
-- 🐛 报告问题请使用 [GitHub Issues](https://github.com/你的用户名/chasoft/issues)
-- 💡 提出新功能请使用 [Feature Requests](https://github.com/你的用户名/chasoft/issues/new?labels=enhancement&template=feature_request.md)
+- 🐛 报告问题请使用 [GitHub Issues](https://github.com/xuxerxes/chasoft/issues)
+- 💡 提出新功能请使用 [Feature Requests](https://github.com/xuxerxes/chasoft/issues/new?labels=enhancement&template=feature_request.md)
 
 ## 📄 许可证
 
@@ -102,11 +102,3 @@ AI：好的，已调整按钮位置和字体大小...
 
 [自动更新代码并刷新预览]
 ```
-
-## 🤝 贡献
-
-欢迎提交 Issue 和 Pull Request！
-
-## 📄 许可证
-
-MIT License
